@@ -2,6 +2,7 @@
     "id": "desktop-lite",
     "name": "Light-weight desktop (Fluxbox)",
     "description": "Fork of desktop lite from VSCode team",
+    "version": "1.0.0",
     "options": {
         "version": {
             "type": "string",
